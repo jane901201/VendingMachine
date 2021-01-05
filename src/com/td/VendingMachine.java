@@ -7,9 +7,9 @@ public class VendingMachine {
 
 	public static void main(String[] args) {
 		
-		//InnerSystem m_InnerSystem = new InnerSystem();
+		InnerSystem m_InnerSystem = new InnerSystem();
 		
-		//m_InnerSystem.getStart();
+		m_InnerSystem.getStart();
 		
 		
 		
